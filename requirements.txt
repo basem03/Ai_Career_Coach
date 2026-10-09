@@ -1,0 +1,15 @@
+streamlit
+pandas
+torch
+transformers==4.52.4
+accelerate
+bitsandbytes
+sentence-transformers
+faiss-cpu
+pypdf
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-huggingface
+langchain-text-splitters
